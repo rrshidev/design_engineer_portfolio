@@ -1,4 +1,7 @@
-<img width="1760" height="2176" alt="Аватар" src="https://github.com/user-attachments/assets/1a8f0499-8f84-41c5-848d-12ef1a70d6ca" />
+<p align="center">
+  <img width="250" style="border-radius: 50%;" alt="Аватар" src="https://github.com/user-attachments/assets/1a8f0499-8f84-41c5-848d-12ef1a70d6ca" />
+</p>
+
 # Портфолио инженера-конструктора Руслан Степин
 
 🎯 **Специализация:** Разработка корпусных изделий, точная механика, нестандартное оборудование.
